@@ -1,0 +1,64 @@
+Always prioritise:
+- simplicity
+- elegance
+- maintainability
+- mobile responsiveness
+- accessibility
+- clean TypeScript
+- reusable components
+- restrained premium healthcare design
+- semantic HTML
+- SEO-friendly structure
+- fast page loads
+- clear clinical safety messaging
+
+Avoid:
+- overengineering
+- excessive dependencies
+- bloated animations
+- duplicated code
+- poor spacing
+- generic startup aesthetics
+- generic wellness copy
+- aggressive sales copy
+- spammy SEO copy
+- bright medical blues
+- excessive gradients
+- fake-looking stock imagery
+- unnecessary complexity
+- building custom patient portals or EMR functionality
+
+Use:
+- Next.js App Router
+- TypeScript
+- Tailwind CSS
+- shadcn/ui where appropriate
+- Framer Motion only for subtle animations
+- lucide-react icons
+- Sanity CMS for editable content
+- Vercel deployment
+
+Design language should feel:
+- calm
+- premium
+- editorial
+- trustworthy
+- modern
+- clinical but warm
+- minimalist
+- Irish healthcare appropriate
+
+The site should feel closer to Apple, Manual, Numan, Levels Health and premium healthcare SaaS brands than to a traditional clinic website.
+
+Always optimise for:
+- readability
+- whitespace
+- typography
+- mobile UX
+- SEO
+- conversion
+- trust
+- scalability
+
+Clinical safety rule:
+Never write copy that implies ElyDoc can diagnose, treat, prescribe, certify, or refer without a GP consultation and clinical appropriateness. Always use careful phrasing such as "where suitable", "where clinically appropriate", "following consultation", and "may require in-person assessment".

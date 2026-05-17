@@ -1,0 +1,19 @@
+import { cn } from "@/lib/utils";
+
+type ContainerProps = {
+  children: React.ReactNode;
+  className?: string;
+  as?: React.ElementType;
+};
+
+export function Container({
+  children,
+  className,
+  as: Tag = "div",
+}: ContainerProps) {
+  return (
+    <Tag className={cn("mx-auto w-full max-w-[var(--max-content-width)] px-5 sm:px-8", className)}>
+      {children}
+    </Tag>
+  );
+}
